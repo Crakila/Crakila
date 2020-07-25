@@ -17,10 +17,11 @@ I mainly play [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com), [osu!
 
 ---
 
+- 🌍 My website is: [pf.ie](https://pf.ie)
 - 📰 I blog at [padraig.blog](https://padraig.blog)
 - 🐦 I tweet mainly at [@PadraigFahy](https://twitter.com/padraigfahy)
 - 📧 I can be emailed at `p at pf dot ie` (No spamarino please)
-- 📫 My socials [pf.ie/social](https://pf.ie/social)
+- 📫 My socials [padraig.blog/social](https://padraig.blog/social)
 - 😄 Pronouns: He/Him
 - 🎶 Music: Future Funk and Citypop
 

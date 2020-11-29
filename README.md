@@ -20,8 +20,10 @@ I mainly play [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com), [osu!
 - 🌍 My website is: [pf.ie](https://pf.ie)
 - 📰 I blog at [padraig.blog](https://padraig.blog)
 - 🐦 I tweet mainly at [@PadraigFahy](https://twitter.com/padraigfahy)
+- 📷 I post pictures on the gram at [@pf.ie](https://instagram.com/pf.ie)
+- 📚 I have an account on DEV but only lurk at [@crakila](https://dev.to/crakila)
 - 📧 I can be emailed at `p at pf dot ie` (No spamarino please)
 - 📫 My socials [padraig.blog/social](https://padraig.blog/social)
 - 😄 Pronouns: He/Him
-- 🎶 Music: Future Funk and Citypop
-
+- 😎 Personality: [ISFP](https://www.16personalities.com/isfp-personality)
+- 🎶 Music: Future Funk and Citypop - Follow my [Spotify](https://open.spotify.com/user/1155669316?si=6pI03B_GRLybqFBUxVIcaA)

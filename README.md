@@ -1,8 +1,6 @@
 ### Hi, I'm Crakila 👋
 #### Lurker, Learner, Gamer from Carlow, Ireland
 
-# I have moved to GitLab, please [follow me](https://gitlab.com/crakila) over there!
-
 ##### Small bit about the programming side of things
 I am a beginner, learning little bits of Python but nothing to really show for it. 
 

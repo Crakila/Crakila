@@ -10,10 +10,13 @@ I am a beginner, learning little bits of Python but nothing to really show for i
 ---
 
 ### By Day
-I work for [Blacknight Internet Solutions](https://blacknight.com) helping customers out with domains, web hosting, WordPress, emails, SSL's, ~~Office~~ Microsoft 365, and more!
+I work for [Blacknight Internet Solutions](https://blacknight.com) helping customers out with domains, web hosting, WordPress, emails, SSL's, ~~Office~~ Microsoft 365, and more! 
+(I am looking for a new job. Email me `p at pf dot ie` if you want a copy of my CV) 
 
 ### By Night
-I mainly play [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com), [osu!](https://osu.ppy.sh/u/61804) and manage a couple of game servers at [Enigma](https://enigma.gg)
+By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com). WHen I am not playing FFXIV, I can be found on my new site [XIV Hotel](https://xivhotel.com/).
+I also look after [SmallBusinessIreland.ie](https://instagram.com/smallbusinessireland.ie) Instagram page.
+
 
 ---
 

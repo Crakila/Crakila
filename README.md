@@ -2,7 +2,7 @@
 #### Lurker, Learner, Gamer from Carlow, Ireland
 
 ##### Small bit about the programming side of things
-I am a beginner, learning little bits of Python but nothing to really show for it. 
+I am a beginner, learning little bits of bits and pieces but nothing to really show for it. 
 
 * I'm a contributor with front-end related bits and bobs over at [@XIVStats](https://github.com/XIVStats)
 * I know HTML and CSS and could whip up something basic if needed.
@@ -10,14 +10,10 @@ I am a beginner, learning little bits of Python but nothing to really show for i
 ---
 
 ### By Day
-I work for [Imagine Broadband](https://www.imagine.ie) helping customers out with wireless broadband in rural parts of Ireland! <br />
-* I previously worked for [Blacknight Internet Solutions](https://blacknight.com)
+I work in Technical Support currently helping customers out with wireless broadband in rural parts of Ireland! <br />
 
 ### By Night
-By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com). When I am not playing FFXIV, I can be found on my new site [XIV Hotel](https://xivhotel.com/).
-
-I also look after [SmallBusinessIreland.ie](https://instagram.com/smallbusinessireland.ie) Instagram page.
-
+By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com). 
 
 ---
 

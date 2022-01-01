@@ -27,4 +27,4 @@ By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfan
 - 😄 Pronouns: He/Him
 - 😎 Personality: [ISFP](https://www.16personalities.com/isfp-personality)
 - 🎶 Music: Future Funk and Citypop - Follow my [Spotify](https://open.spotify.com/user/1155669316) 
-    - Follow my [2021 Playlist](https://open.spotify.com/playlist/3ASiI55whFP0aEOSVSjGK6) ([2020](https://open.spotify.com/playlist/3CJuEQjXEO7fFILJx9RM35), [2019](https://open.spotify.com/playlist/4Xz7YpxPqmkqOkv6Leh2TV), [2018](https://open.spotify.com/playlist/1IhDLDVor8cHVo0YHXClja), [2017](https://open.spotify.com/playlist/4XFHMrid67f5RhYbzmSOlR))
+    - Follow my [2022 Playlist](https://open.spotify.com/playlist/3rjiV83xG5CQVuiH6eIQWA?si=c6684c5c014d40de) ([2021](https://open.spotify.com/playlist/3ASiI55whFP0aEOSVSjGK6), [2020](https://open.spotify.com/playlist/3CJuEQjXEO7fFILJx9RM35), [2019](https://open.spotify.com/playlist/4Xz7YpxPqmkqOkv6Leh2TV), [2018](https://open.spotify.com/playlist/1IhDLDVor8cHVo0YHXClja), [2017](https://open.spotify.com/playlist/4XFHMrid67f5RhYbzmSOlR))

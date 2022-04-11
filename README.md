@@ -10,10 +10,11 @@ I am a beginner, learning little bits of bits and pieces but nothing to really s
 ---
 
 ### By Day
-I work in Technical Support currently helping customers out with wireless broadband in rural parts of Ireland! <br />
+I work in Technical Support currently helping customers out with web hosting, domain names, Microsoft 365 and other bits and pieces! <br />
 
 ### By Night
 By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com). 
+I also blog at [padraig.blog](https://padraig.blog)
 
 ---
 

@@ -18,6 +18,12 @@ I also blog at [padraig.blog](https://padraig.blog)
 
 ---
 
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakila)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 - 🌍 My website is: [pf.ie](https://pf.ie)
 - 📰 I blog at [padraig.blog](https://padraig.blog)
 - 🐦 I tweet mainly at [@PadraigFahy](https://twitter.com/padraigfahy)

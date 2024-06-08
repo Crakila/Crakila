@@ -37,3 +37,5 @@ I also blog at [padraig.blog](https://padraig.blog)
 - 🎶 Music: Future Funk and Citypop - Follow my [Spotify](https://open.spotify.com/user/1155669316) 
     - Follow my [2024 Playlist](https://open.spotify.com/playlist/52rHXpnFT8WoXHme0WaAjr?si=c1163307c66646ac) [2023 Playlist](https://open.spotify.com/playlist/1l4rw770gjpA6aD6ELxLOX) ([2022](https://open.spotify.com/playlist/3rjiV83xG5CQVuiH6eIQWA), [2021](https://open.spotify.com/playlist/3ASiI55whFP0aEOSVSjGK6), [2020](https://open.spotify.com/playlist/3CJuEQjXEO7fFILJx9RM35), [2019](https://open.spotify.com/playlist/4Xz7YpxPqmkqOkv6Leh2TV), [2018](https://open.spotify.com/playlist/1IhDLDVor8cHVo0YHXClja), [2017](https://open.spotify.com/playlist/4XFHMrid67f5RhYbzmSOlR))
 - 🐦 I am no longer using Twitter [@PadraigFahy](https://twitter.com/padraigfahy)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1155669316&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)

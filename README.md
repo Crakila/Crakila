@@ -15,13 +15,13 @@ I work in Technical Support currently helping customers out with web hosting, do
 
 ### By Night
 By night, you'll find me playing [Final Fantasy XIV: Online](https://eu.finalfantasyxiv.com). 
-I also blog at [padraig.blog](https://padraig.blog) -->
+I also blog at [padraig.blog](https://padraig.blog) 
 
 ---
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakila)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakila)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 

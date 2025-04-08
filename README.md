@@ -1,5 +1,6 @@
 ### Hi, I'm Crakila 👋
-#### Lurker, Learner, Gamer from Monaghan, Ireland
+#### Lurker, Learner, Gamer 
+<!-- from Monaghan, Ireland -->
 
 ##### Small bit about the programming side of things
 I am a beginner, learning little bits of bits and pieces but nothing to really show for it. 

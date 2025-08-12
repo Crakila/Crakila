@@ -1,8 +1,10 @@
-### Hi, I'm Crakila 👋
-#### Lurker, Learner, Gamer 
+#### No longer on Github.
+#### Please follow me on [Codeberg](https://codeberg.org/Crakila)
+<!-- ### Hi, I'm Crakila 👋 
+#### Lurker, Learner, Gamer -->
 <!-- from Monaghan, Ireland -->
 
-##### Small bit about the programming side of things
+<!-- ##### Small bit about the programming side of things
 I am a beginner, learning little bits of bits and pieces but nothing to really show for it. 
 
 * I'm a contributor with front-end related bits and bobs over at [@XIVStats](https://github.com/XIVStats)
